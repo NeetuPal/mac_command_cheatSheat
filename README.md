@@ -14,5 +14,6 @@
 - Search text on current page command+f
 - Find next match command+g
 - Find previous match command+shift+g
-- To bring cursor return key 
+- To bring cursor return key
+- On Mac Chrome, to open a duplicate of the current tab ⌘ + L → ⌘ + Enter
  
