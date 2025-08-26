@@ -16,4 +16,6 @@
 - Find previous match command+shift+g
 - To bring cursor return key
 - On Mac Chrome, to open a duplicate of the current tab ⌘ + L → ⌘ + Enter
- 
+- Zoom in command+=
+- Zoom out command+-
+- To open terminal inside VS Code ctrl+shift+`
