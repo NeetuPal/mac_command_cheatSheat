@@ -19,3 +19,5 @@
 - Zoom in command+=
 - Zoom out command+-
 - To open terminal inside VS Code ctrl+shift+`
+- Scroll page down space
+- Scroll page up shift+space
